@@ -48,6 +48,9 @@ int main()
     {
         // processInput(window);
 
+        // 渲染指令
+        // ...
+
         glfwPollEvents();
         // glfwSwapBuffers(window);
     }
